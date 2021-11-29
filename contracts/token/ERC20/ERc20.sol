@@ -12,10 +12,6 @@ $APE Token is one of the very few charity tokens on Binance Smart Chain. Every s
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.6.12;
 
-import "../../GSN/Context.sol";
-import "./IERC20.sol";
-import "../../math/SafeMath.sol";
-
 interface IERC20 {
     /**
      * @dev Returns the amount of tokens in existence.
