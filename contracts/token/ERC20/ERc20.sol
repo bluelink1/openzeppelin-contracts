@@ -9,7 +9,7 @@ $APE Token is one of the very few charity tokens on Binance Smart Chain. Every s
 • No airdrops 
 */
 
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: UNLICENSED
 pragma solidity >=0.6.0 <0.8.0;
 
 import "../../GSN/Context.sol";
